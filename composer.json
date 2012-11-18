@@ -1,0 +1,36 @@
+{
+    "name": "jakoch/SimpleTest",
+    "description": "SimpleTest",
+    "homepage": "http://www.simpletest.org/",
+    "license": "LGPL-2.1",
+    "keywords": ["simpletest", "php", "unit-test", "testing", "junit", "xunit", "code-coverage", "selenium"],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Markus Baker"
+        },
+        {
+            "name": "Jason Sweat"
+        },
+        {
+            "name": "Travis Swicegood"
+        },
+        {
+            "name": "Perrick Penet"
+        },
+        {
+            "name": "Edward Z. Yang"
+        },
+        {
+            "name": "Jens-André Koch",
+            "email": "jakoch@web.de"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/jakoch/SimpleTest/",
+        "issues": "https://github.com/jakoch/SimpleTest/issues/"
+    },
+    "require": {
+        "php": ">=5.3.0",
+    }
+}
